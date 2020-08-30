@@ -17,3 +17,11 @@ def words_to_marks(s):
         s1 += alphabet.index(letter)
 
     return s1
+
+# ------------------------------------------------------------------
+
+import string
+
+def words_to_marks(s):
+    alphabet = ' ' + string.ascii_lowercase
+    return sum([alphabet.index(letter) for letter in s])
