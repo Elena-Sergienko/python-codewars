@@ -1,7 +1,8 @@
 # python-codewars
-Solutions 
+Solutions:
+
 Count Odd Numbers below n
 Exclusive Logical Operator
+Love vs friendship
 Pre-Fizz-Bizz Workout
 Remove a exclamation mark
-Love vs friendship
