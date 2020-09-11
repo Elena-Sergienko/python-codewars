@@ -1,3 +1,4 @@
+![codewars](https://user-images.githubusercontent.com/68942106/92854279-a9ac0d80-f3a5-11ea-8356-2fc800cdaeab.png)
 # python-codewars
 ## Solutions:
 
