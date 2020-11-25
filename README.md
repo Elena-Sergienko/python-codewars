@@ -8,6 +8,8 @@
 
 ### Exclusive Logical Operator
 
+## Find the smallest integer
+
 ### Love vs friendship
 
 ### Pre-Fizz-Bizz Workout
