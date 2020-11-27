@@ -8,7 +8,9 @@
 
 ### Exclusive Logical Operator
 
-##№ Find the smallest integer
+### Find the smallest integer
+
+### List Filtering
 
 ### Love vs friendship
 
