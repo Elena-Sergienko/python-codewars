@@ -3,21 +3,12 @@
 ## Solutions:
 
 ### Convert number
-
 ### Count Odd Numbers below n
-
 ### Exclusive Logical Operator
-
 ### Find the smallest integer
-
 ### List Filtering
-
 ### Love vs friendship
-
 ### NBA full 48 minutes
-
 ### Pre-Fizz-Bizz Workout
-
 ### Remove a exclamation mark
-
 ### What is between
