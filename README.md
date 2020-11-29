@@ -7,7 +7,6 @@
 ### Exclusive Logical Operator
 ### Find the smallest integer
 ### List Filtering
-### Love vs friendship
 ### NBA full 48 minutes
 ### Pre-Fizz-Bizz Workout
 ### Remove a exclamation mark
