@@ -6,6 +6,7 @@
 ### Count Odd Numbers below n
 ### Exclusive Logical Operator
 ### Find the smallest integer
+### Growth of a Population
 ### List Filtering
 ### NBA full 48 minutes
 ### Pre-Fizz-Bizz Workout
